@@ -1,0 +1,22 @@
+{
+  "name": "telebot",
+  "version": "1.0.0",
+  "description": "telebot training",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "telebot",
+    "telegram",
+    "bot"
+  ],
+  "author": "jordy apriyanto",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
